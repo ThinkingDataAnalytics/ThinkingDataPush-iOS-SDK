@@ -1,0 +1,16 @@
+PODS:
+  - ThinkingDataPush (0.1.0)
+
+DEPENDENCIES:
+  - ThinkingDataPush (from `../`)
+
+EXTERNAL SOURCES:
+  ThinkingDataPush:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ThinkingDataPush: 776d21d654fb0e584b4dbc411e2eaddccca3724d
+
+PODFILE CHECKSUM: c5180fbdf10f9df7ffe6103fe6c54f5f34e81faf
+
+COCOAPODS: 1.11.3
