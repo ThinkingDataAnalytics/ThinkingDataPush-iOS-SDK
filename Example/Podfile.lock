@@ -1,15 +1,22 @@
 PODS:
-  - ThinkingDataPush (0.1.0)
+  - ThinkingDataCore (0.1.0)
+  - ThinkingDataPush (0.1.0):
+    - ThinkingDataCore (= 0.1.0)
 
 DEPENDENCIES:
   - ThinkingDataPush (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - ThinkingDataCore
 
 EXTERNAL SOURCES:
   ThinkingDataPush:
     :path: "../"
 
 SPEC CHECKSUMS:
-  ThinkingDataPush: 776d21d654fb0e584b4dbc411e2eaddccca3724d
+  ThinkingDataCore: e177f66890b10de6adb33a0d777c17064d7fc464
+  ThinkingDataPush: bcffec4683ed145c6f17a887d5f99f3a3abc5e3e
 
 PODFILE CHECKSUM: c5180fbdf10f9df7ffe6103fe6c54f5f34e81faf
 
