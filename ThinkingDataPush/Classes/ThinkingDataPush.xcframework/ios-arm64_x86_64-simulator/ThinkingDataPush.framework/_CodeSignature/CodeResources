@@ -6,19 +6,23 @@
 	<dict>
 		<key>Headers/TDPush.h</key>
 		<data>
-		BeI2VVwiPPxqgZGotpQ6exQrH1A=
+		G2Q8aPKWU1ArYnSQKsmKQjuoeIY=
 		</data>
 		<key>Headers/TDPushDelegate.h</key>
 		<data>
-		MlXFr15IyjShFyGpkwYleGHF9+4=
+		dv/K8UANOTA1AWTEjiTzd0S0ckY=
+		</data>
+		<key>Headers/TDPushModel.h</key>
+		<data>
+		YVfINJmxz96BkNu1kN21h1l/JQA=
 		</data>
 		<key>Headers/ThinkingDataPush.h</key>
 		<data>
-		YGjOso97Py2RIM5L9MmrtXdgSJo=
+		OoCVcpMJRz5/PPplTvNP+lBOw4o=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		GjHN3pjOtZAlkpByHZ3pnT+q1Qk=
+		D02/l2Y23pkQ2PAxmUgAYQGmu/M=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -31,33 +35,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BeI2VVwiPPxqgZGotpQ6exQrH1A=
+			G2Q8aPKWU1ArYnSQKsmKQjuoeIY=
 			</data>
 			<key>hash2</key>
 			<data>
-			5EaGJKLDlgeYwxI7eZkCFjtohS8Buw6KVmgUu5ozynQ=
+			2/VxthtJq1A4IE9DcDb1RU+PaM39G1X+LCOS+wumz40=
 			</data>
 		</dict>
 		<key>Headers/TDPushDelegate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MlXFr15IyjShFyGpkwYleGHF9+4=
+			dv/K8UANOTA1AWTEjiTzd0S0ckY=
 			</data>
 			<key>hash2</key>
 			<data>
-			GlZIH03rOsQUN8wWc2z/wpZhH7v3elZmiLLt5ursKzY=
+			Fc9wa+ymI4DMpBx6CB2WA1zuNyjR0k+0KIbs8Lfk4Ck=
+			</data>
+		</dict>
+		<key>Headers/TDPushModel.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YVfINJmxz96BkNu1kN21h1l/JQA=
+			</data>
+			<key>hash2</key>
+			<data>
+			9aBG5lhRldm1eo1veRRi8mPEAJb1KjN3vwD4dGdJPQw=
 			</data>
 		</dict>
 		<key>Headers/ThinkingDataPush.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			YGjOso97Py2RIM5L9MmrtXdgSJo=
+			OoCVcpMJRz5/PPplTvNP+lBOw4o=
 			</data>
 			<key>hash2</key>
 			<data>
-			zqXw0AePg80kUEB93ZWwjyTd3nDMg7EshCqj/Fg5dPc=
+			HHDP8sWhZ+BmredBCJ1cu2RbEhtvrWKE8ur2qn6j8Qs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -17,9 +17,17 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface TDPush : NSObject
 
+/// init SDK
+/// - Parameter delegate: object which conform protocol TDPushDelegate
 + (void)startWithDelegate:(id<TDPushDelegate>)delegate;
 
-+ (NSString *)getDeviceToken;
+/// get TDPushToken
+/// @return token which TDPush generated
++ (NSString *)getTDPushToken;
+
+/// version of SDK
+/// @return version string
++ (NSString *)version;
 
 @end
 

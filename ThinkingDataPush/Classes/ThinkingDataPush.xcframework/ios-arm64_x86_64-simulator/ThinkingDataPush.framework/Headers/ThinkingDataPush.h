@@ -17,4 +17,5 @@ FOUNDATION_EXPORT const unsigned char ThinkingDataPushVersionString[];
 
 #import <ThinkingDataPush/TDPush.h>
 #import <ThinkingDataPush/TDPushDelegate.h>
+#import <ThinkingDataPush/TDPushModel.h>
 
