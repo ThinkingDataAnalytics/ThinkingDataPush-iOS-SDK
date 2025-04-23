@@ -1,0 +1,6 @@
+framework module ThinkingDataPush {
+  umbrella header "ThinkingDataPush.h"
+  export *
+
+  module * { export * }
+}

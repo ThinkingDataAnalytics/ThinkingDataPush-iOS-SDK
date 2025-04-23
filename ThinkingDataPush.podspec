@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ThinkingDataPush'
-  s.version          = '1.0.0'
+  s.version          = '1.1.0'
   s.summary          = 'A short description of ThinkingDataPush.'
 
 # This description is used to generate tags and improve search results.
@@ -31,6 +31,7 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '9.0'
 
   # s.source_files = 'ThinkingDataPush/Classes/**/*'
+  # s.source_files = '_do_not_upload_to_github/FrameworkProject/ThinkingDataPush/**/*.{h,m}'
   s.vendored_frameworks = 'ThinkingDataPush/Classes/**/*.xcframework'
 
   # s.resource_bundles = {
@@ -40,6 +41,6 @@ TODO: Add long description of the pod here.
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
-  s.dependency 'ThinkingDataCore', '1.0.1'
+  s.dependency 'ThinkingDataCore', '1.2.1'
 
 end

@@ -2,16 +2,17 @@
 //  main.m
 //  ThinkingDataPush
 //
-//  Created by 杨雄 on 07/12/2023.
-//  Copyright (c) 2023 杨雄. All rights reserved.
+//  Created by 杨雄 on 2024/5/14.
 //
 
-@import UIKit;
-#import "TDAppDelegate.h"
+#import <UIKit/UIKit.h>
+#import "AppDelegate.h"
 
-int main(int argc, char * argv[])
-{
+int main(int argc, char * argv[]) {
+    NSString * appDelegateClassName;
     @autoreleasepool {
-        return UIApplicationMain(argc, argv, nil, NSStringFromClass([TDAppDelegate class]));
+        // Setup code that might create autoreleased objects goes here.
+        appDelegateClassName = NSStringFromClass([AppDelegate class]);
     }
+    return UIApplicationMain(argc, argv, nil, appDelegateClassName);
 }
